@@ -1,0 +1,8 @@
+.vscode/
+build/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+*.out
+*.log
