@@ -4,8 +4,9 @@
  * @file bigint.hpp
  * @author Omid Moghtader (omidm.analytics@gmail.com)
  *
- * @version 0.1 + 1
- * @date 2023-12-28
+ * @since 1.0 (2023-12-28)
+ * @version 1.2
+ * @date 2025-08-09
  *
  * @copyright Copyright (c) 2023
  *
